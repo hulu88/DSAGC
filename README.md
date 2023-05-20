@@ -8,10 +8,10 @@
 
 
 
-# Self-Supervised Graph Convolution Autoencoder for Social Networks Clustering
+# Deep Self-Supervised Graph Attention Convolution Autoencoder for Networks Clustering
 
-- This is repository contains the code for the paper (IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS  , 2022)
-- Chen, C., Lu, H. Self-Supervised Graph Convolution Autoencoder for Social Networks Clustering . *(2022). 
+- This is repository contains the code for the paper (IEEE Transactions on Consumer Electronics, 2022)
+- Chen, C., Lu, H. Deep Self-Supervised Graph Attention Convolution Autoencoder for Networks Clustering . *(2023). 
 
 
 
@@ -47,8 +47,8 @@ if you use this code for your research, please cite our paper:
 @article{DS-AGC,
 title={ Self-Supervised Graph Convolution Autoencoder for Social Networks Clustering },
 author={Chao Chen, Hu Lu, Haotian Hong, Hai Wang, Shaohua Wan   },
-journal={IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS},
-year={2022},
+journal={IEEE Transactions on Consumer Electronics},
+year={2023},
 }
 
 
