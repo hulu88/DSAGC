@@ -10,7 +10,7 @@
 
 # Deep Self-Supervised Graph Attention Convolution Autoencoder for Networks Clustering
 
-- This is repository contains the code for the paper (IEEE Transactions on Consumer Electronics, 2022)
+- This is repository contains the code for the paper (IEEE Transactions on Consumer Electronics, 2023)
 - Chen, C., Lu, H. Deep Self-Supervised Graph Attention Convolution Autoencoder for Networks Clustering . *(2023). 
 
 
